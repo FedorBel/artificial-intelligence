@@ -1,2 +1,1 @@
-# artificial-intelligence
-Udacity nanodegree program.
+# Artificial Intelligence Nanodegree Program 
